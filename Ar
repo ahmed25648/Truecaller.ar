@@ -1,0 +1,14 @@
+{
+  "name": "shawarma-app",
+  "version": "1.0.0",
+  "description": "إدارة قسم الشاورما",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1"  // مثال على مكتبة لتحميل البيانات
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "اسمك",
+  "license": "ISC"
+}
